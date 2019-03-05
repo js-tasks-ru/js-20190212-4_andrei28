@@ -140,3 +140,4 @@ teacher.karma.conf.js
 .DS_Store
 
 package-lock.json
+1-module/1-task/index.js
